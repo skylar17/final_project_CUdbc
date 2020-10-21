@@ -1,4 +1,4 @@
-![Array of Women's Clothes](Images/Womens_Clothes)
+![Array of Women's Clothes](./Images/Womens_Clothes)
 
 # Women's Clothing E-Commerce Data Analysis
 
@@ -22,7 +22,7 @@ Our dataset came from Kaggle and is a collection of women’s clothing e-commerc
 * Department Name
 * Class Name
 
-![Data Process](Images/data_cleaning)
+![Data Process](./Images/data_cleaning)
 
 ## Methods
 For the <ins>ETL process</ins>, we performed a raw data cleanse, which included replacing null values with mode values, transposing the dataframe, and calculating the polarity and sentiment score. 
