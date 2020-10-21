@@ -28,7 +28,7 @@ Our dataset came from Kaggle and is a collection of women’s clothing e-commerc
 For the <ins>ETL process</ins>, we performed a raw data cleanse, which included replacing null values with mode values, transposing the dataframe, and calculating the polarity and sentiment score. 
 To make our data visualizations, we used <ins>Plotly, PIL</ins>, <ins>Matplotlib, Seaborn</ins>, and <ins>Python, Pandas</ins>. Some of the visualizations included bar charts, pie chart, 3-D chart, and heatmaps. We also made Word Cloud's for positive titles, negative titles, and review text. 
 
-For the Machine Learning Analysis, we used toolkits like <ins>Wordcloud<ins>, <ins>NLTK<ins>, and <ins>SciKit-Learn (SkLearn)<ins>. For the ML Analysis Benchmark, we dropped stop words, tokenize & lemmatized, identified positive and negative words, and processed TD-IDF Matrix. Then, we trained, tested and predicted the accuracy of five models:
+For the Machine Learning Analysis, we used toolkits like <ins>Wordcloud</ins>, <ins>NLTK</ins>, and <ins>SciKit-Learn (SkLearn)</ins>. For the ML Analysis Benchmark, we dropped stop words, tokenize & lemmatized, identified positive and negative words, and processed TD-IDF Matrix. Then, we trained, tested and predicted the accuracy of five models:
 
 * Logistic Regression
 * Support Vector Machines
