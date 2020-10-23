@@ -1,10 +1,12 @@
-![Array of Women's Clothes](./Images/Womens_Clothes.jpg)
-
 # Women's Clothing E-Commerce Data Analysis
 
 #### Columbia University Data Analytics Bootcamp - Final Project (October 2020) 
 #### Project By: Alfonso Toruno, Chris Campell, Himani Manglik, Kamal Mukherjee, Shivani Thakkar
 --------------------------------------------------------------------------------------------------
+
+![Array of Women's Clothes](./Images/Womens_Clothes.jpg)
+
+
 ## Goal
 #### Visualize trends based on women's clothing e-commerce reviews and find a machine learning model that can most accurately predict consumer sentiment.
 
